@@ -1,0 +1,9 @@
+{
+  "name": "App_Lindoo",
+  "app_id": "",
+  "type": "ionic1",
+  "integrations": {
+    "cordova": {},
+    "gulp": {}
+  }
+}
